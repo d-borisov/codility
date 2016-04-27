@@ -1,4 +1,4 @@
-package com.dborisov.lesson_1_task_01_binaryGap;
+package com.dborisov.lesson_01_task_01_binaryGap;
 
 public class Solution {
 

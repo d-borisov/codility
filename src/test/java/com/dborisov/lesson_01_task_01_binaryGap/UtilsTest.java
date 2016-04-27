@@ -1,4 +1,4 @@
-package com.dborisov.lesson_1_task_01_binaryGap;
+package com.dborisov.lesson_01_task_01_binaryGap;
 
 import org.junit.Test;
 
@@ -8,7 +8,7 @@ import static org.junit.Assert.assertThat;
 public class UtilsTest {
 
     @Test
-    public void test_ints_creation() throws Exception {
+    public void testIntsCreation() throws Exception {
         assertThat(0b0, is(0));
         assertThat(0b1, is(1));
         assertThat(0b10, is(2));
